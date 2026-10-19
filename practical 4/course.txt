@@ -1,1 +1,1 @@
-devops with git
+course devops and jekins
